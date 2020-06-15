@@ -1,0 +1,10 @@
+#+Title: My Emacs README
+#+Author: John Skaggs
+* Acknowledgments
+** Mike Zamansky
+I want to send out a big thanks to Mike whose [[https://www.youtube.com/channel/UCxkMDXQ5qzYOgXPRnOBrp1w][youtube channel]] and [[https://cestlaz.github.io/post/using-emacs-72-customizing-elfeed/][github]] were extremely helpful for getting started with Emacs. At the moment much of this is directly out of his intro series.
+** Harry Schwartz
+Got my mind exploding with possibilities and envy in [[https://www.youtube.com/watch?v=SzA2YODtgK4][this lecture]].
+
+* INSTALL ORG-MODE
+  For this to build, org-mode MUST already be installed on the machine.
